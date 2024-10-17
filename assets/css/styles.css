@@ -10,6 +10,10 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #050705;
   }
+
+  input {
+    background-color: var(--bg-color-white);
+  }
   
   /* Remove margins and padding from the list */
   ul {
